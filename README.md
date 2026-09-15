@@ -25,4 +25,3 @@ Recovering accidentally deleted records using Snowflake Time Travel.
 ```text
 SQL/          → SQL scripts for each question
 Screenshots/  → Execution screenshots for each question
-Dataset/      → Sample dataset used for Q3
